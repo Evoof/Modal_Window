@@ -1,3 +1,4 @@
 {
-  "editor.wordWrap": "bounded"
+  "editor.wordWrap": "bounded",
+  "liveServer.settings.port": 5501
 }
